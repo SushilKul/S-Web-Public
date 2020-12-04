@@ -1,5 +1,5 @@
 # S-Web-Public
 S Web Public Repository
-S Web can use this repository to share free projects for students, 
-Also Upload the Marketing COlletrals for review and changes suggestions to our team meets before deployment.
 
+/* S Web Public Repository will use to share free projects for students.
+We are also being Uploading the Marketing Collaterals for internal review,
